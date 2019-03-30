@@ -1,1 +1,2 @@
 # Dynamic-Programming-Game-Theory-2-Players-Game
+Consider a 2 players game where 2 players are standing facing each other in distance **A**. The players approach each other by putting each foot exactly in front of the other while walking. During their approach they have the choice to make a horizontal step (so they approch each other by **D**) or to make a vertical step (so they approach each other by **d**). Consider the paramenters d and D are known and the same for both players. The winner is the player who will touch his opponent first.   
